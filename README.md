@@ -95,14 +95,10 @@ no.2/
 
 ## 4. Cara Menjalankan Proyek
 
-1. **Clone repository (jika dari GitHub):**
+1. **Clone repository dan masuk ke direktori proyek:**
    ```bash
    git clone https://github.com/halfthew0rldaway/utspemobilelanjut.git
    cd utspemobilelanjut
-   ```
-   *Atau jika mengekstrak dari file arsip RAR:*
-   ```bash
-   cd no.2
    ```
 
 2. **Instal dependensi:**
